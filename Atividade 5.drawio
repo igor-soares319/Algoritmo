@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="Szf6tu0fgW7kbvVXYHpb">
+    <mxGraphModel dx="2289" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SEY4O299X5F5Scpz_E97-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SEY4O299X5F5Scpz_E97-3" value="Entrada de dados" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry y="400" width="211" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SEY4O299X5F5Scpz_E97-4" value="Procedimento" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry y="560" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SEY4O299X5F5Scpz_E97-5" value="Decisão" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry y="890" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A7TPZva7InNOKU6XTnLt-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Fim&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry y="200" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A7TPZva7InNOKU6XTnLt-7" value="Olá, mundo&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry y="720" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-1" target="xo3RB5eLI5g8tA8pHnUN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1015.5" y="20" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-2" target="xo3RB5eLI5g8tA8pHnUN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-2" value="real peso&lt;div&gt;real altura&lt;/div&gt;&lt;div&gt;real imc&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="980" y="210" width="211" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-3" target="xo3RB5eLI5g8tA8pHnUN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-3" value="escreva &quot;Peso: &quot;&amp;nbsp;&amp;nbsp;&lt;div&gt;leia (peso)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="942.75" y="360" width="285.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-4" target="xo3RB5eLI5g8tA8pHnUN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-4" value="escreva &quot;altura &quot;&amp;nbsp;&amp;nbsp;&lt;div&gt;leia (peso)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="942.75" y="510" width="285.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-5" target="xo3RB5eLI5g8tA8pHnUN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-5" value="imc = peso/(altura * altura)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="942.75" y="650" width="285.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-6" target="xo3RB5eLI5g8tA8pHnUN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-6" target="xo3RB5eLI5g8tA8pHnUN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-6" value="se imc &amp;lt;= 15,5" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="993.25" y="830" width="184.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1759" y="1960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-7" value="&quot;Seu imc é&quot;&amp;nbsp; + imc +&lt;div&gt;logo você tem magresa, obesidade igual a 0&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="855" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-8" target="xo3RB5eLI5g8tA8pHnUN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-8" target="xo3RB5eLI5g8tA8pHnUN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-8" value="se imc &amp;lt;= 29,9" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="993.25" y="1330" width="184.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-9" value="&quot;Seu imc é&quot;&amp;nbsp; + imc +&lt;div&gt;logo você tem sobre peso, obesidade igual a 1&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1355" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-10" target="xo3RB5eLI5g8tA8pHnUN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-10" target="xo3RB5eLI5g8tA8pHnUN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-10" value="se imc &amp;lt;= 39,9" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="993.25" y="1590" width="184.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-15" value="&quot;Seu imc é&quot;&amp;nbsp; + imc +&lt;div&gt;logo você tem normal, obesidade igual a 2&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1615" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="1965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-16" value="&quot;Seu imc é&quot;&amp;nbsp; + imc +&lt;div&gt;logo você tem obesidade grave, obesidade igual a 3&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="1900" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-17" target="xo3RB5eLI5g8tA8pHnUN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-17" target="xo3RB5eLI5g8tA8pHnUN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-17" value="se imc &amp;lt;= 29,9" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="993.25" y="1080" width="184.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo3RB5eLI5g8tA8pHnUN-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xo3RB5eLI5g8tA8pHnUN-18" value="&quot;Seu imc é&quot;&amp;nbsp; + imc +&lt;div&gt;logo você tem normal, obesidade igual a 1&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1105" width="270" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
